@@ -1,4 +1,4 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
+# 👋 Bem-vindo!
 
 Olá! Eu sou **Caetano**, estudante de **Ciência da Computação**.
 
