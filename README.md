@@ -28,4 +28,4 @@ Meu objetivo é continuar aprimorando minhas habilidades em programação, desen
 ## Contato
 
 * **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/caetano-pequeno-bb820433b/)
-* **GitHub:** [@SEU_USUARIO](https://github.com/SEU_USUARIO)
+* **GitHub:** [@Caetanopqn](https://github.com/SEU_USUARIO)
