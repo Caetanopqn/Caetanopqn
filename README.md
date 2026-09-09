@@ -1,8 +1,10 @@
-# 👋 Bem-vindo!
+# 👋 Bem-vindo ao meu GitHub!
 
-Olá! Eu sou **Caetano**. Estou cursando **Ciências da Computação**, 2º Período, Unipê
+Olá! Eu sou **Caetano**, estudante de **Ciência da Computação** no **UNIPÊ**, atualmente no **2º período**.
 
-No momento, estou aprendendo e desenvolvendo projetos principalmente com:
+Estou construindo minha base em tecnologia por meio da graduação, cursos e projetos pessoais, buscando sempre colocar em prática os conhecimentos que estou adquirindo.
+
+## Tecnologias que estou estudando
 
 * **JavaScript**
 * **Python**
@@ -11,10 +13,19 @@ No momento, estou aprendendo e desenvolvendo projetos principalmente com:
 * **HTML & CSS**
 * **Power BI**
 
-## Sobre mim
+## Atualmente aprendendo
 
-* Estudante de Ciência da Computação
-* Sempre aprendendo algo novo
-* Gosto de transformar ideias em projetos
-* Também tenho interesse em desenvolvimento de jogos
-* Buscando evoluir cada vez mais na área de tecnologia
+* **Banco de Dados**
+* **Algoritmos e Programação**
+* **Desenvolvimento Front-end**
+* **Lógica de programação**
+* **Git e GitHub**
+
+## Objetivo
+
+Meu objetivo é continuar aprimorando minhas habilidades em programação, desenvolver projetos que contribuam para meu aprendizado e construir minha carreira na área de **Tecnologia da Informação**.
+
+## Contato
+
+* **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/caetano-pequeno-bb820433b/)
+* **GitHub:** [@SEU_USUARIO](https://github.com/SEU_USUARIO)
