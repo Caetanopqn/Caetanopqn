@@ -1,4 +1,4 @@
-## Salve tchtchuco 👋
+## Salve 22ko👋
 
 <!--
 **Caetanopqn/Caetanopqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
